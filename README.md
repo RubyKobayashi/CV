@@ -62,7 +62,7 @@ I often harnessed my natural sense of enthusiasm, motivation and dedication in o
 
 ## Experience
 
-**Self-employed videographer, video editor and photographer** (2015-2018)    
+**Self-employed videographer, video editor and photographer** (Aug 2015 - Aug 2018)    
 **Basis Research** (Feb 2013-Aug 2015)   
 *Video editor*  
 **Flixmedia** (Feb 2012- Feb 2013)   
