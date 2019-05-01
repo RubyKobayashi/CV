@@ -1,6 +1,6 @@
 ## Ruby Kobayashi
 
-I am a former video editor and photographer, who having always had a deep curiosity for all things that marry the technical and the creative, has undertaken an immersive journey into the world of coding by exploring the depths of the rabbit-hole. Recent steps include successfully graduating from an intensive 4 month course as a full stack junior, from Makers Academy a highly selective bootcamp with a 10 percent acceptance rate. I am looking for a junior dev role in an innovative environment, where I can further develop my coding ability and skills.
+I am a former video editor and photographer, who having always had a deep curiosity for all things that marry the technical and the creative, has undertaken an immersive journey into the world of coding by exploring the depths of the rabbit-hole. Recent steps include successfully graduating from an intensive 4 month course as a full stack junior developer, from Makers Academy a highly selective bootcamp with a 10 percent acceptance rate. I am looking for a junior dev role in an innovative environment, where I can further develop my coding ability and skills.
 
 ## Skills
 
