@@ -6,20 +6,20 @@ I am a former video editor and photographer, who having always had a deep curios
 
 #### Communication
 
-From working within teams of offline and online editors on a BBC TV series to working with translators, quantitive researchers and fashion designers, my ability to communicate effectively peer to peer and directly to clients, has served to be a valuable tool. This has enabled me to work harmoniously and effectively in time-pressurised environments. Satisfied clients and end-clients, who have returned for repeated further work have included EE, P&0, Disney, TSB, RNLI and National Geographic Learning, to name a few.
+From working within teams of offline and online editors on a BBC TV series to working with translators, quantitive researchers and fashion designers, my ability to communicate effectively peer to peer and directly to clients, has served to be a valuable tool. This has enabled me to work harmoniously and effectively in time-pressurised environments. Satisfied clients and end-clients, who have returned for repeated further work have included EE, P&0, Disney, TSB, RNLI and National Geographic Learning. This is a skill that translates really well when developing and working in an Agile manner in group projects and/or pair programming.
 
 #### Attention to detail
 
-I have a keen sense of attention to detail which enables me to understand any task at hand and to be on point when bringing complex projects to life. This enables me to think creatively while still working well inside the boundaries of intricate briefs. Whether the focus is on multi-camera shoots or meticulous frame-by-frame and/or pixel-by-pixel post-production, I have used this skill to be thorough and to complete projects to a high standard. Some examples of my work can be found here: www.rubykobayashi.com
+I have a keen sense of attention to detail, which enables me to understand any task at hand and to be on point when bringing complex projects to life. This enables me to think creatively while still working well inside the boundaries of intricate briefs. Whether the focus is on multi-camera shoots or meticulous frame-by-frame and/or pixel-by-pixel post-production, I have used this skill to be thorough and to complete projects to a high standard. This is at the core of when I develop and enables me to spot bugs and move on quickly.
 
 #### Creative problem-solver
 
-Inevitably, when one embarks on a project, unforseen walls come up to meet you. Whether it be scheduling issues or continuity issues with the footage, I used them as an opportunity to think out of the box and problem-solve. This is an ability that has proved to be handy when coding.
+Inevitably, when one embarks on a project, unforseen walls come up to meet you. Whether it be scheduling issues or continuity issues with the footage, I used them as an opportunity to think out of the box and problem-solve. This is an ability that I rely upon when developing, whether it be fixing bugs or using a completely new tech stack, and has proved to be a handy skill when developing.
 
 
 #### Dedication
 
-I often harnessed my natural sense of enthusiasm, motivation and dedication in order to thrive as a freelancer. I am a natural self-starter and have used this to nurture ideas through the pre, production and post stages. There were times when simultaneous projects needed my attention and I often relied upon my passion and dedication as a driving force to enable me to work tirelessly in demanding environments, and to propel projects towards a successful completion.
+I often harnessed my natural sense of enthusiasm, motivation and dedication in order to thrive as a freelancer. I am a natural self-starter and have used this to nurture ideas through the pre, production and post stages. There were times when simultaneous projects needed my attention and I often relied upon my passion and dedication as a driving force to enable me to work tirelessly in demanding environments. I harness this dedication to help drive me to learn when developing and to propel projects towards a successful completion. 
 
 
 
@@ -34,7 +34,7 @@ I often harnessed my natural sense of enthusiasm, motivation and dedication in o
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, Java
 - RSpec, Jasmine
 
 #### Prague Film School (Sept 2007 - June 2008)
@@ -70,6 +70,6 @@ I often harnessed my natural sense of enthusiasm, motivation and dedication in o
 
 ## Interests
 
-- Exploring untouched, beautiful places in nature, in my self-build camper van
-- Watching independent European arthouse movies
-- Reiki
+- Camping in nature in my self-build camper van
+- Photography
+
